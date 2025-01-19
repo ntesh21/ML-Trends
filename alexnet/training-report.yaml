@@ -1,0 +1,134 @@
+Alex net with LRN Training Detail:
+
+Epoch 0/9
+----------
+train Loss: 1.8747 Acc: 0.2941
+Epoch time taken:  327.3308069705963
+val Loss: 1.5861 Acc: 0.3997
+Epoch time taken:  365.85045433044434
+Epoch 1/9
+----------
+train Loss: 1.3129 Acc: 0.5247
+Epoch time taken:  716.3583948612213
+val Loss: 1.0498 Acc: 0.6251
+Epoch time taken:  766.9451658725739
+Epoch 2/9
+----------
+train Loss: 1.0130 Acc: 0.6428
+Epoch time taken:  1056.238958120346
+val Loss: 1.0048 Acc: 0.6482
+Epoch time taken:  1093.1010649204254
+Epoch 3/9
+----------
+train Loss: 0.8440 Acc: 0.7038
+Epoch time taken:  334.8590159416199
+val Loss: 0.8162 Acc: 0.7123
+Epoch time taken:  372.0989351272583
+Epoch 4/9
+----------
+train Loss: 0.7191 Acc: 0.7496
+Epoch time taken:  22473.35804462433
+val Loss: 0.7548 Acc: 0.7432
+Epoch time taken:  22502.549499988556
+Epoch 5/9
+----------
+train Loss: 0.6167 Acc: 0.7868
+Epoch time taken:  316.15227913856506
+val Loss: 0.7273 Acc: 0.7502
+Epoch time taken:  356.8166320323944
+Epoch 6/9
+----------
+train Loss: 0.5299 Acc: 0.8169
+Epoch time taken:  622.5962738990784
+val Loss: 0.6907 Acc: 0.7733
+Epoch time taken:  680.9432594776154
+Epoch 7/9
+----------
+train Loss: 0.4623 Acc: 0.8407
+Epoch time taken:  1291.6022653579712
+val Loss: 0.6481 Acc: 0.7839
+Epoch time taken:  1385.5991051197052
+Epoch 8/9
+----------
+train Loss: 0.4059 Acc: 0.8593
+Epoch time taken:  770.4499299526215
+val Loss: 0.6240 Acc: 0.7907
+Epoch time taken:  810.8866889476776
+Epoch 9/9
+----------
+train Loss: 0.3560 Acc: 0.8762
+Epoch time taken:  561.0577328205109
+val Loss: 0.6098 Acc: 0.8001
+Epoch time taken:  647.49445271492
+Training complete in 483m 8s
+Best val Acc: 0.800100
+
+
+
+
+
+================
+Alexnet without LRN
+
+Epoch 0/9
+----------
+train Loss: 1.7666 Acc: 0.3426
+Epoch time taken:  618.7027704715729
+val Loss: 1.4025 Acc: 0.4864
+Epoch time taken:  677.0587832927704
+Epoch 1/9
+----------
+train Loss: 1.2201 Acc: 0.5644
+Epoch time taken:  609.8300576210022
+val Loss: 1.0361 Acc: 0.6483
+Epoch time taken:  679.3226261138916
+Epoch 2/9
+----------
+train Loss: 0.9742 Acc: 0.6600
+Epoch time taken:  635.132700920105
+val Loss: 0.9538 Acc: 0.6735
+Epoch time taken:  705.6067073345184
+Epoch 3/9
+----------
+train Loss: 0.8296 Acc: 0.7106
+Epoch time taken:  1409.9463059902191
+val Loss: 0.7961 Acc: 0.7216
+Epoch time taken:  1508.8745791912079
+Epoch 4/9
+----------
+train Loss: 0.7249 Acc: 0.7482
+Epoch time taken:  1459.991685628891
+val Loss: 0.7601 Acc: 0.7388
+Epoch time taken:  1528.003244638443
+Epoch 5/9
+----------
+train Loss: 0.6425 Acc: 0.7768
+Epoch time taken:  625.3500955104828
+val Loss: 0.8175 Acc: 0.7263
+Epoch time taken:  691.6028435230255
+Epoch 6/9
+----------
+train Loss: 0.5709 Acc: 0.8023
+Epoch time taken:  624.5964353084564
+val Loss: 0.6934 Acc: 0.7677
+Epoch time taken:  687.0805108547211
+Epoch 7/9
+----------
+train Loss: 0.5140 Acc: 0.8224
+Epoch time taken:  634.4814519882202
+val Loss: 0.7066 Acc: 0.7661
+Epoch time taken:  701.710999250412
+Epoch 8/9
+----------
+train Loss: 0.4682 Acc: 0.8381
+Epoch time taken:  680.1419126987457
+val Loss: 0.7186 Acc: 0.7634
+Epoch time taken:  761.3902671337128
+Epoch 9/9
+----------
+train Loss: 0.4270 Acc: 0.8526
+Epoch time taken:  612.0148751735687
+val Loss: 0.6791 Acc: 0.7765
+Epoch time taken:  640.6842701435089
+Training complete in 143m 5s
+Best val Acc: 0.776500
